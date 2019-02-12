@@ -13,8 +13,8 @@ $stripe = [
 
 /*
 $stripe = [
-  "secret_key"      => "sk_live_X8VeRYIbAiLucPp0P35Iip8w",
-  "publishable_key" => "pk_live_qWu2Nh40yQYJBQZ0xMh0u9pX",
+  "secret_key"      => "sk_live",
+  "publishable_key" => "pk_live",
   "price"           => $price,
 ];
 */
